@@ -1,0 +1,23 @@
+library-management-system/
+├── data/                   # CSV data files
+│   ├── books.csv
+│   ├── members.csv
+│   ├── loans.csv
+├── lib/                    # Main application code
+│   ├── __init__.py
+│   ├── models.py
+│   ├── storage.py
+│   ├── auth.py
+│   ├── librarian.py
+│   ├── member.py
+│   ├── utils.py
+├── tests/                  # Test files
+│   ├── __init__.py
+│   ├── test_models.py
+│   ├── test_storage.py
+│   ├── test_auth.py
+│   ├── test_issue_return.py
+├── main.py                 # Main entry point
+├── requirements.txt
+├── README.md
+├── .gitignore

@@ -1,0 +1,3 @@
+MemberID,Name,Email,PasswordHash,Role
+1001,John Doe,john@example.com,$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW,member
+2001,Jane Smith,jane@example.com,$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW,librarian
